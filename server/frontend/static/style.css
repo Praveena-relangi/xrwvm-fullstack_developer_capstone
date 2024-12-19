@@ -130,6 +130,7 @@ img{
     width: 80vw;
     height: 80vh;
     margin: 25px;
+    border: 2px solid grey;
 }
 .top-box{
     justify-content: center;
@@ -141,7 +142,7 @@ img{
 }
 .car-img{
     height: 200px;
-    width: 350px;
+    width: 450px;
 }
 .bottom-box{
     padding: 25px;
@@ -154,9 +155,7 @@ img{
     justify-content: center;
     align-items: center;
     text-align: center;
-    border-right-width: 2px;
-    border-right-color: black;
-    border-style: solid;
+    border-right: 3px solid black;
 }
 .contact-img{
     height: 130px;
